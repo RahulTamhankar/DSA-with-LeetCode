@@ -1,26 +1,30 @@
 class RandomizedSet {
 
-    Map<Integer,Integer> map=null;
-    List<Integer> arrayList=null;
-    Random rand=null;
-    
+    Map<Integer, Integer> map = null;
+    List<Integer> arrayList = null;
+
+    Random rand = null;
+
+    /** Initialize your data structure here. */
     public RandomizedSet() {
-        map=new HashMap<>();
-        arrayList=new ArrayList<>();
-        rand=new Random();
+        map = new HashMap<>();
+        arrayList = new ArrayList<>();
+        rand = new Random();
     }
-    
+
+    /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
     public boolean insert(int val) {
-        if(!map.containsKey(val)){
-            map.put(val,arrayList.size());
+        if(!map.containsKey(val)) {
+            map.put(val, arrayList.size());
             arrayList.add(val);
             return true;
-        }
-        else{
+        } else{
             return false;
         }
+
     }
-    
+
+    /** Removes a value from the set. Returns true if the set contained the specified element. */
     public boolean remove(int val) {
         if(map.containsKey(val)) {
             // replace from last always
@@ -43,19 +47,12 @@ class RandomizedSet {
             return false;
         }
     }
-    
+
+    /** Get a random element from the set. */
     public int getRandom() {
-        int size=arrayList.size();
-        int index=rand.nextInt(size);
+
+        int size = arrayList.size();
+        int index = rand.nextInt(size);
         return arrayList.get(index);
-        
     }
 }
-
-/**
- * Your RandomizedSet object will be instantiated and called as such:
- * RandomizedSet obj = new RandomizedSet();
- * boolean param_1 = obj.insert(val);
- * boolean param_2 = obj.remove(val);
- * int param_3 = obj.getRandom();
- */
