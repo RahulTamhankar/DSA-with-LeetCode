@@ -1,22 +1,15 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int[] result = new int[2];
-        int start = 0;
-        int end;
+        HashMap<Integer,Integer>map=new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            int complement=target-nums[i];
 
-        while (start < nums.length) {
-            end = start + 1;
-            while (end < nums.length) {
-                if (nums[start] + nums[end] == target) {
-                    result[0] = start;
-                    result[1] = end;
-                    return result;
-                }
-                end++;
+            if(map.containsKey(complement)){
+                return new int[] {map.get(complement),i};
             }
-            start++;
-        }
 
-        return result; // Optional: throw new IllegalArgumentException("No solution");
+            map.put(nums[i],i);
+        }
+        return new int[]{};  
     }
 }
