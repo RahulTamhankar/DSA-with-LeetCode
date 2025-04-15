@@ -30,3 +30,40 @@ class Solution {
         return isTreeSymmetric(root.left,root.right);
     }
 }
+
+
+//Iterative 
+//import java.util.*;
+
+// class Solution {
+//     public boolean isSymmetric(TreeNode root) {
+//         if (root == null)
+//             return true;
+
+//         Queue<TreeNode> q = new LinkedList<>();
+//         q.offer(root.left);
+//         q.offer(root.right);
+
+//         while (!q.isEmpty()) {
+//             TreeNode leftRoot = q.poll();
+//             TreeNode rightRoot = q.poll();
+
+//             if (leftRoot == null && rightRoot == null)
+//                 continue;
+
+//             if ((leftRoot == null && rightRoot != null) || 
+//                 (leftRoot != null && rightRoot == null))
+//                 return false;
+
+//             if (leftRoot.val != rightRoot.val)
+//                 return false;
+
+//             q.offer(leftRoot.left);
+//             q.offer(rightRoot.right);
+//             q.offer(leftRoot.right);
+//             q.offer(rightRoot.left);
+//         }
+
+//         return true;
+//     }
+// }
