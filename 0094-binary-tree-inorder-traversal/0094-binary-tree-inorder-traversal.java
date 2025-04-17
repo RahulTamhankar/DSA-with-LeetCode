@@ -38,22 +38,27 @@ class Solution {
 
         while(root!=null || !stack.isEmpty()){
             while(root!=null){
-                stack.push(root);
+                stack.push(root);  // Go left
                 root=root.left;
             }
 
-            root=stack.pop();
+            root=stack.pop();      // Visit root
             res.add(root.val);
-            root=root.right;
+            root=root.right;       // Go right
         }
 
         return res;
     }
 }
+//Stack push and list push denote ->LEFT
+//Poppping and visiting stack denote->ROOT
+
 
 //  What is In-Order Traversal?
 // In a binary tree, in-order traversal visits nodes in the order:
 
+
+//“Go as left as possible by pushing all left children onto the stack. Once you hit null, pop the top from the stack (that’s the ROOT), visit it, then move to its RIGHT child. Repeat.”
 // css
 // Copy
 // Edit
