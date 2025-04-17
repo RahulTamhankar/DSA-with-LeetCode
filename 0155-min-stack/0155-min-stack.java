@@ -43,3 +43,14 @@ class MinStack {
  * int param_3 = obj.top();
  * int param_4 = obj.getMin();
  */
+
+
+ //Example
+//  MinStack minStack = new MinStack();
+// minStack.push(-2);   // stack: [-2], minStack: [-2]
+// minStack.push(0);    // stack: [-2, 0], minStack: [-2]
+// minStack.push(-3);   // stack: [-2, 0, -3], minStack: [-2, -3]
+// minStack.getMin();   // returns -3
+// minStack.pop();      // stack: [-2, 0], minStack: [-2]
+// minStack.top();      // returns 0
+// minStack.getMin();   // returns -2
