@@ -50,3 +50,81 @@ class Solution {
         return res;
     }
 }
+
+//  What is In-Order Traversal?
+// In a binary tree, in-order traversal visits nodes in the order:
+
+// css
+// Copy
+// Edit
+// LEFT → ROOT → RIGHT
+// Example Tree:
+
+// markdown
+// Copy
+// Edit
+//     1
+//    / \
+//   2   3
+// In-order traversal: 2 → 1 → 3
+
+// \U0001f9e0 Intuition Behind the Code
+// In a recursive approach, we do:
+
+// java
+// Copy
+// Edit
+// inorder(root.left);
+// visit(root);
+// inorder(root.right);
+// But here, we’re using a stack to simulate that recursion manually, so we can traverse iteratively.
+
+// \U0001f50d Breakdown of the Code:
+// java
+// Copy
+// Edit
+// List<Integer> res = new ArrayList<>();
+// Stack<TreeNode> stack = new Stack<>();
+// We need a result list and a stack to keep track of the nodes we need to revisit (like the call stack in recursion).
+
+// \U0001f501 Outer loop:
+// java
+// Copy
+// Edit
+// while (root != null || !stack.isEmpty())
+// This keeps running:
+
+// While there are nodes left to explore (root ≠ null), OR
+
+// There are nodes we've saved to revisit later (stack not empty)
+
+// ⬅️ Inner loop — going left as far as possible:
+// java
+// Copy
+// Edit
+// while (root != null) {
+//     stack.push(root);
+//     root = root.left;
+// }
+// This is equivalent to the recursive call:
+
+// java
+// Copy
+// Edit
+// inorder(root.left);
+// We push the current node because we’ll need to come back and visit it after exploring the left subtree.
+
+// ✅ After left is done, we:
+// java
+// Copy
+// Edit
+// root = stack.pop();       // Visit root
+// res.add(root.val);        // Add root value to result
+// root = root.right;        // Explore right subtree
+// This corresponds to:
+
+// java
+// Copy
+// Edit
+// visit(root);
+// inorder(root.right);
