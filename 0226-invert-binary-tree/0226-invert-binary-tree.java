@@ -46,3 +46,5 @@ class Solution {
         return root;
     }
 }
+
+//You're going level by level, swapping left and right at each node, and queuing up the children to keep going deeper into the tree.
