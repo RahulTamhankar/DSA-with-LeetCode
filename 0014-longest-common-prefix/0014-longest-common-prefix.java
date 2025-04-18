@@ -99,9 +99,22 @@ class Solution{
         String prefix=strs[0].substring(0,len);
         for(int i=1;i<strs.length;i++){
             if(!strs[i].startsWith(prefix)){
+//                 For each string, check if it starts with the prefix we selected.If any string doesn't match, then this prefix is not common, so we return false immediately
                 return false;
             }
         }
         return true;
     }
 }
+
+
+// String[] strs = {"flower", "flow", "flight"};
+// len = 2
+
+// prefix = "fl"
+
+// Check:
+// - "flow".startsWith("fl") ✅
+// - "flight".startsWith("fl") ✅
+
+// All match → return `true`
