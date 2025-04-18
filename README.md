@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0155-min-stack) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
