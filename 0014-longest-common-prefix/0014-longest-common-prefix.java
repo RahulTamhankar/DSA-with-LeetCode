@@ -118,3 +118,124 @@ class Solution{
 // - "flight".startsWith("fl") ✅
 
 // All match → return `true`
+
+//-------------------------------------------
+//Recursion
+// class Solution {
+    
+//     public String getPrefix(String prevStr, int idx, String strs[]) {
+//         if(idx == strs.length) {
+//             return prevStr;
+//         }
+        
+//         String currStr;
+//         StringBuilder newStr = new StringBuilder("");
+//         currStr = strs[idx];
+//         int sStr = prevStr.length() < currStr.length() ? prevStr.length() : currStr.length();
+        
+//         for(int i=0; i<sStr; i++) {
+//             if(currStr.charAt(i) == prevStr.charAt(i)) {
+//                 newStr.append(currStr.charAt(i));
+//             } 
+//             else {
+//                 break;
+//             }
+//         }
+        
+//         return getPrefix(newStr.toString(), idx+1, strs);
+        
+//     }
+    
+//     public String longestCommonPrefix(String[] strs) {
+        
+//         return getPrefix(strs[0], 1, strs);
+//     }
+// }
+
+//  What this code is doing:
+// You're recursively comparing one string at a time with the current prefix, and narrowing down that prefix until it's common across all strings.
+
+// \U0001f4e6 Example Input:
+// java
+// Copy
+// Edit
+// String[] strs = {"flower", "flow", "flight"};
+// \U0001f4a1 Method Entry Point:
+// java
+// Copy
+// Edit
+// longestCommonPrefix(strs)
+// // calls: getPrefix("flower", 1, strs)
+// \U0001f501 Let's Walk Through Recursion
+// \U0001f539 Call 1:
+// java
+// Copy
+// Edit
+// getPrefix("flower", 1, strs)
+// Compare "flower" and "flow"
+
+// Shorter string length: 4
+
+// Compare characters:
+
+// 'f' == 'f' ✅
+
+// 'l' == 'l' ✅
+
+// 'o' == 'o' ✅
+
+// 'w' == 'w' ✅
+// ➡️ newStr = "flow"
+
+// Now it calls:
+
+// java
+// Copy
+// Edit
+// getPrefix("flow", 2, strs)
+// \U0001f539 Call 2:
+// java
+// Copy
+// Edit
+// getPrefix("flow", 2, strs)
+// Compare "flow" and "flight"
+
+// Shorter string length: 4
+
+// Compare characters:
+
+// 'f' == 'f' ✅
+
+// 'l' == 'l' ✅
+
+// 'o' != 'i' ❌
+// ➡️ newStr = "fl"
+
+// Now it calls:
+
+// java
+// Copy
+// Edit
+// getPrefix("fl", 3, strs)
+// \U0001f539 Call 3:
+// java
+// Copy
+// Edit
+// getPrefix("fl", 3, strs)
+// Base case: idx == strs.length (3 == 3) ➡️ Return "fl"
+
+// ✅ Final Answer:
+// java
+// Copy
+// Edit
+// "fl"
+// \U0001f504 Visualization Tree:
+// scss
+// Copy
+// Edit
+// getPrefix("flower", 1)
+//    ↓
+// getPrefix("flow", 2)
+//    ↓
+// getPrefix("fl", 3) → returns "fl"
+// Each step reduces the prefix based on comparison with the next string.
