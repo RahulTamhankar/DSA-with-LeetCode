@@ -23,3 +23,38 @@ class Solution {
             isSameTree(p.right,q.right);
     }
 }
+
+
+// Visual Walkthrough:
+// Example 1: Same Tree
+// plaintext
+// Copy
+// Edit
+// p:          q:
+//     1           1
+//    / \         / \
+//   2   3       2   3
+// p.val == q.val → 1 == 1 → true
+
+// Recursively check left and right:
+
+// Left subtrees: 2 == 2 → true
+
+// Right subtrees: 3 == 3 → true
+
+// All checks pass → return true.
+
+// Example 2: Different Structure
+// plaintext
+// Copy
+// Edit
+// p:          q:
+//     1           1
+//    /             \
+//   2               2
+// p.val == q.val → 1 == 1 → true
+
+// Recursively check left and right:
+
+// Left of p is 2, but right of q is null → not same → return false.
+
