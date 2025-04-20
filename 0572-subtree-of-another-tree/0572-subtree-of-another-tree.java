@@ -32,3 +32,4 @@ class Solution {
     }
 }
 
+//if && written after || then wrong as even after reaching null both sides it will retrurn false
