@@ -11,3 +11,5 @@ class Solution {
         return ans;
     }
 }
+
+//1st for-ans = 0 ^ 1 ^ 2 ^ 3 ^ 4
