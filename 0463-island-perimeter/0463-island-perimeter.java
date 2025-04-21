@@ -6,7 +6,7 @@ class Solution {
             for(int j=0;j<grid[i].length;j++){
                 if(grid[i][j]==1){
                     dfs(grid,i,j);
-                    break;
+                    return count;
                 }
             }
         }
