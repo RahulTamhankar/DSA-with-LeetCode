@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1019-squares-of-a-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
