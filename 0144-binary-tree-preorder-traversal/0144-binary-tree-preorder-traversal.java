@@ -32,3 +32,11 @@ class Solution {
         return arr;
     }
 }
+
+//to be processed before the right child.
+// To achieve this, we push the right child first and then the left child.
+
+// Why?
+
+// Because left child is pushed last, so it will be popped first from the stack.
+
