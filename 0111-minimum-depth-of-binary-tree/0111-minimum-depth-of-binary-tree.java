@@ -79,7 +79,7 @@ class Solution {
                 
                 // If it's a leaf node, return the current depth
                 if (node.left == null && node.right == null) {
-                    return depth;
+                    return depth; // return depth as soon as a level is found to be null
                 }
                 
                 // Add left and right children to the queue, if they exist
@@ -90,9 +90,36 @@ class Solution {
                     queue.add(node.right);
                 }
             }
-            depth++;
+            depth++; //after each level increase depth
         }
         
         return 0;  // This line will never be reached if the tree is valid
     }
 }
+
+
+//  Example Walkthrough
+// Given this tree:
+
+// markdown
+// Copy
+// Edit
+//     1
+//    / \
+//   2   3
+//      / \
+//     4   5
+// Here’s how the BFS works:
+
+// Depth = 1 → Queue: [1]
+
+// Process 1 → Add 2, 3 to queue
+
+// After loop → depth++ → depth = 2
+
+// Depth = 2 → Queue: [2, 3]
+
+// Process 2 (a leaf!): return 2
+
+// Boom \U0001f4a5 — we return as soon as we hit the first leaf node at depth 2.
+
