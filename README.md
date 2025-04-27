@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
