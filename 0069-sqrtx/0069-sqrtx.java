@@ -21,3 +21,13 @@ class Solution {
         return Math.round(end);
     }
 }
+
+// You can remove (long) if you know that mid * mid will never get too big for int type.
+
+// But sometimes, if x is a very big number (like close to 2,000,000,000), then:
+
+// mid could be large (example: around 46,000),
+
+// and mid * mid becomes a huge number — bigger than what an int can hold,
+
+// so mid * mid can overflow and give a wrong answer.
