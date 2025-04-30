@@ -17,3 +17,23 @@ class Solution {
         return result.reverse().toString();
     }
 }
+
+// Example
+// Let’s say:
+
+// java
+// Copy
+// Edit
+// num1 = "123"
+// num2 = "89"
+// We'd perform:
+
+// 3 + 9 = 12 → append 2, carry 1
+
+// 2 + 8 + 1 = 11 → append 1, carry 1
+
+// 1 + 0 + 1 = 2 → append 2
+
+// result = "2112" → reverse → "212"
+
+// ✅ Final output: "212"
