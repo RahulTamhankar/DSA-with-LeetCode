@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0782-jewels-and-stones) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0415-add-strings) |
 ## Memoization
 |  |
 | ------- |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0257-binary-tree-paths) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
