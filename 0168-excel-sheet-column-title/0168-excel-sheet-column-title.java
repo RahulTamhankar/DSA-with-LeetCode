@@ -1,14 +1,32 @@
 class Solution {
+    // Method to convert a column number to its corresponding Excel column title
     public String convertToTitle(int columnNumber) {
-        StringBuilder res=new StringBuilder();
-        while(columnNumber>0){
-            columnNumber--; 
-            res.insert(0,(char)((columnNumber%26)+'A'));
-            columnNumber/=26;
+        
+        // Create a StringBuilder to efficiently build the result string
+        StringBuilder res = new StringBuilder();
+        
+        // Loop until all digits have been processed
+        while (columnNumber > 0) {
+
+            // Decrement columnNumber to convert from 1-based to 0-based indexing
+            columnNumber--;
+
+            // Compute the current character by taking modulo 26,
+            // and converting it to a letter using ASCII ('A' = 65)
+            char currentChar = (char)((columnNumber % 26) + 'A');
+
+            // Insert the character at the beginning of the result string
+            res.insert(0, currentChar);
+
+            // Move to the next digit (more significant place in base-26)
+            columnNumber /= 26;
         }
+
+        // Convert the StringBuilder to a string and return the final result
         return res.toString();
     }
 }
+
 
 // 2. columnNumber /= 26: Actually moves to next digit
 // Purpose:
