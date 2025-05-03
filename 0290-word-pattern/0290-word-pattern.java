@@ -1,35 +1,43 @@
-class Solution {
+import java.util.*;
+
+public class Solution {
     public boolean wordPattern(String pattern, String s) {
-        String[] words=s.split(" ");
+        String[] words = s.split(" ");
+        
+        // If lengths mismatch, pattern can't match
+        if (pattern.length() != words.length) return false;
 
-        if(pattern.length()!=words.length) return false;
+        // Use two hash maps to ensure bijection
+        Map<Character, String> charToWord = new HashMap<>();
+        Map<String, Character> wordToChar = new HashMap<>();
 
-        Map<Character,String> charToWord=new HashMap<>();
-        Map<String,Character> wordToChar=new HashMap<>();
+        for (int i = 0; i < pattern.length(); i++) {
+            char c = pattern.charAt(i);
+            String word = words[i];
 
-        for(int i=0;i<pattern.length();i++){
-            char c=pattern.charAt(i);
-            String word=words[i];
-
-            if(charToWord.containsKey(c)){
-                if(!charToWord.get(c).equals(word)){
+            // Check char -> word mapping
+            if (charToWord.containsKey(c)) {
+                if (!charToWord.get(c).equals(word)) {
                     return false;
                 }
-            }else{
-                charToWord.put(c,word);
+            } else {
+                charToWord.put(c, word);
             }
 
-            if(wordToChar.containsKey(word)){
-                if(wordToChar.get(word)!=c){
+            // Check word -> char mapping
+            if (wordToChar.containsKey(word)) {
+                if (wordToChar.get(word) != c) {
                     return false;
                 }
-            }else{
-                wordToChar.put(word,c);
+            } else {
+                wordToChar.put(word, c);
             }
         }
+
         return true;
     }
 }
+
 
 // explain why 2 hashmaps required char to word and word to char as both will have same content right ?
 
