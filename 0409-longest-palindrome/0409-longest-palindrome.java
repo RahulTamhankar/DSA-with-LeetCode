@@ -1,12 +1,12 @@
 class Solution {
     public int longestPalindrome(String s) {
         int freq[]=new int[256];
-        for(var c:s.toCharArray()){
+        for(int c:s.toCharArray()){
             freq[c]++;
         }
         int palinLen=0;
         boolean oddFreqExist=false;
-        for(var fr:freq){
+        for(int fr:freq){
             if(fr%2!=0){
                 oddFreqExist=true;
             }
