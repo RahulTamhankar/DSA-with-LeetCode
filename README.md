@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0463-island-perimeter) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0792-binary-search) |
 ## Binary Search Tree
