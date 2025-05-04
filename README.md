@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 | [0941-sort-array-by-parity](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0990-verifying-an-alien-dictionary](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0782-jewels-and-stones) |
+| [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 | [0990-verifying-an-alien-dictionary](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 ## Trie
 |  |
 | ------- |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 ## Matrix
 |  |
 | ------- |
