@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0392-is-subsequence) |
