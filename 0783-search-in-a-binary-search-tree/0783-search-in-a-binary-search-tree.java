@@ -36,3 +36,26 @@ class Solution {
         return null;
     }
 }
+// class Solution {
+//     public TreeNode searchBST(TreeNode root, int val) {
+//         //base condition
+//         if(root == null || root.val == val)return root;
+       
+//         // Travel in the tree;
+//         if(root.val > val){
+//             root = searchBST(root.left,val);
+//         }else{
+//             root = searchBST(root.right,val);
+//         }
+
+//         // If the value doesn't exist return null
+//         return root;
+//     }
+// }
+// //There are three cases:
+
+// ✅ Equal: v == val → Found the node → return it.
+
+// \U0001f53d Less than: val < v → The target must be in the left subtree.
+
+// \U0001f53c Greater than: val > v → The target must be in the right subtree.
