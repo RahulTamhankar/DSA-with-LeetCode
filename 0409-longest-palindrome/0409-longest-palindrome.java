@@ -16,3 +16,42 @@ class Solution {
         return (palinLen*2+((oddFreqExist)?1:0));//to get actual length * it by 2,and if odd exists add+1
     }
 }
+
+//even var for(var fr:freq){ will work
+
+// Explanation
+// When using var, Java infers the type from the collection being iterated:
+// If you're doing:
+
+// java
+// Copy
+// Edit
+// for (var c : s.toCharArray())
+// Java sees you're iterating over a char[], so it treats var as char.
+
+// If you're doing:
+
+// java
+// Copy
+// Edit
+// for (var fr : freq)
+// Java sees you're iterating over an int[], so it treats var as int.
+
+// This is why both of these work:
+
+// java
+// Copy
+// Edit
+// for (var c : s.toCharArray()) {  // var → char
+//     freq[c]++;
+// }
+
+// for (var fr : freq) {            // var → int
+//     ...
+// }
+// And why this fails:
+
+// java
+// Copy
+// Edit
+// for (char fr : freq) // ❌ freq is int[], char is too small — narrowing not allowed
