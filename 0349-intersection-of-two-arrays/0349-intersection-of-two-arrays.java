@@ -20,6 +20,16 @@ class Solution {
                 j++;
             }
         }
+//         Why This Works:
+// Because both arrays are sorted, we don't need to backtrack or check previous elements.
+
+// At each step:
+
+// We’re either finding a match and moving both forward, or
+
+// Skipping the smaller value to try to "catch up" with the larger one.
+
+// This ensures we only pass through each array once → very efficient.
 
         // Convert set to array
         int[] result = new int[resultSet.size()];
@@ -31,3 +41,26 @@ class Solution {
         return result;
     }
 }
+
+// class Solution {
+//   public int[] intersection(int[] nums1, int[] nums2) {
+//     Set<Integer> set = new HashSet<>();
+//     Set<Integer> resultSet = new HashSet<>();
+
+//     for (int num : nums1) {
+//       set.add(num);
+//     }
+//     for (int num : nums2) {
+//       if (set.contains(num)) {
+//         resultSet.add(num); 
+//       }
+//     }
+//     int[] result = new int[resultSet.size()];
+//     int i = 0;
+//     for (int num : resultSet) {
+//       result[i++] = num;
+//     }
+
+//     return result;
+//   }
+// }
