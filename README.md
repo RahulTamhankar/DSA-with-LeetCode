@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0476-number-complement) |
 ## Two Pointers
 |  |
 | ------- |
