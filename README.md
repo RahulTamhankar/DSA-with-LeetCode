@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
