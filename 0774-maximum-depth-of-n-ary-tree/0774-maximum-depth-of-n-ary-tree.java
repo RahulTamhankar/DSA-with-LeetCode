@@ -25,7 +25,8 @@ class Solution {
          queue.offer(root);
          int level=0;
          while(!queue.isEmpty()){
-            int size=queue.size();
+            int size=queue.size(); //Controls how many nodes to process per level
+
             for(int i=0;i<size;i++){
                 Node node=queue.poll();
                 for(Node n:node.children)
@@ -36,3 +37,23 @@ class Solution {
          return level;
     }
 }
+
+//
+// class Solution {
+//     public int maxDepth(Node root) {
+//         if(root==null)return 0;
+
+//         List<Node> list=root.children;
+//         int max=0;
+
+
+//         for(Node node:list){
+
+//             int level=maxDepth(node);
+//             max=Math.max(max,level);
+//         }
+
+//         return max+1;
+        
+//     }
+// }
