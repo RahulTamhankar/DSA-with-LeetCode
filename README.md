@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0697-degree-of-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 | [0990-verifying-an-alien-dictionary](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
