@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
