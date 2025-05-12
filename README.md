@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0733-flood-fill) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0861-flipping-an-image) |
 ## Two Pointers
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0782-jewels-and-stones) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
