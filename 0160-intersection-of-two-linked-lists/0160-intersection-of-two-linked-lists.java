@@ -9,6 +9,8 @@
  *     }
  * }
  */
+
+ //2ptr
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode lista=headA;
