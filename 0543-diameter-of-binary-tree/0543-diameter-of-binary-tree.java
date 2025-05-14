@@ -33,3 +33,10 @@ class Solution {
         return Math.max(leftDepth,rightDepth)+1;
     }
 }
+
+//This return value is the height (depth) of the current node’s subtree.
+
+// It’s used by the parent node to calculate its own depth.
+
+// It's not the diameter — just the depth of the longest path down from this node to a leaf.
+
