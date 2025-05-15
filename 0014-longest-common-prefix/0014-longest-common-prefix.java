@@ -72,6 +72,36 @@
 //         return prefix;
 //     }
 // }
+// Step-by-Step with Example:
+// Input: ["flower", "flow", "flight"]
+
+// Start:
+
+// java
+// Copy
+// Edit
+// prefix = "flower"
+// Check with "flow":
+
+// "flow".startsWith("flower") → ❌ No
+
+// Trim: "flowe" → ❌
+
+// Trim: "flow" → ✅ Match
+
+// Now: prefix = "flow"
+
+// Check with "flight":
+
+// "flight".startsWith("flow") → ❌
+
+// Trim: "flo" → ❌
+
+// Trim: "fl" → ✅ Match
+
+// Now: prefix = "fl"
+
+// All strings processed — return "fl"
 //-------------------------------------
 //Binary Search
 class Solution{
