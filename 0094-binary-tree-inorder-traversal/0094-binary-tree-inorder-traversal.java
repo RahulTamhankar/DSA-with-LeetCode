@@ -36,7 +36,7 @@ class Solution {
         List<Integer> res=new ArrayList<>();
         Stack<TreeNode> stack=new Stack<>();
 
-        while(root!=null || !stack.isEmpty()){
+        while(root!=null || !stack.isEmpty()){//
             while(root!=null){
                 stack.push(root);  // Go left
                 root=root.left;
@@ -50,6 +50,12 @@ class Solution {
         return res;
     }
 }
+// Why You Need the Inner Loop
+// Even though the outer loop checks root != null, that’s just to keep the traversal running. The inner loop is what actually goes down the tree to the leftmost node.
+
+// Without the inner loop:
+// You’d only go one level left per iteration — you wouldn’t be traversing deeply to the left before visiting nodes.
+
 //Stack push and list push denote ->LEFT
 //Poppping and visiting stack denote->ROOT
 
