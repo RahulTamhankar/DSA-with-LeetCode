@@ -19,6 +19,7 @@ class Solution {
                     }
                 }
 
+                //This ensures you only update the result ans when a longer palindrome is found.
                 if (dp[i][j] != 0) {
                     if (j - i + 1 > maxLength) {
                         maxLength = j - i + 1;
