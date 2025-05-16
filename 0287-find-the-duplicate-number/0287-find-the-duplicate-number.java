@@ -1,21 +1,26 @@
 //T.C : O(n) Using "Hare & tortoise technique"
 //S.C : O(1)
-class Solution {
+class Solution { 
     public int findDuplicate(int[] nums) {
-        int slow = nums[0];
-        int fast = nums[0];
+        int slow = nums[0], fast = nums[0];
 
-        do {
+        // Move pointers to find the intersection point inside the cycle
+        slow = nums[slow];
+        fast = nums[nums[fast]];
+
+        while (slow != fast) {
             slow = nums[slow];
             fast = nums[nums[fast]];
-        } while (slow != fast);
+        }
 
-        fast = nums[0];
+        // Reset one pointer to start and move both at same pace
+        slow = nums[0];
+
         while (slow != fast) {
             slow = nums[slow];
             fast = nums[fast];
         }
 
-        return slow; //or fast
+        return fast; // or return slow
     }
 }
