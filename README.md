@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0461-hamming-distance) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0367-valid-perfect-square) |
