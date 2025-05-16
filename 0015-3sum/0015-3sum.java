@@ -13,11 +13,14 @@ class Solution {
             if (i != 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-            twoSum(nums, i + 1, result, -nums[i]);
+            int n1=nums[i];
+            int target=-n1;
+            twoSum(nums, i + 1, result, target); // 2 sum iscalculated from i+1 to n-1, n-1 is done inside twoSum method
         }
 
         return result;
     }
+
 
     private void twoSum(int[] nums, int k, List<List<Integer>> result, int target) {
         int i = k, j = nums.length - 1;
