@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0724-find-pivot-index) |
 ## Counting Sort
