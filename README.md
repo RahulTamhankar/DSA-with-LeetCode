@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0697-degree-of-an-array) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0724-find-pivot-index) |
 ## Counting Sort
 |  |
