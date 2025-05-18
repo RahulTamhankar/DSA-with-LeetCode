@@ -11,6 +11,9 @@
  */
 
  //2ptr
+//  Time = O(m + n)
+
+// \U0001f9ee Space Complexity: O(1)
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode lista=headA;
@@ -23,6 +26,32 @@ public class Solution {
         return listb;
     }
 }
+
+//Solu 2
+//   ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+
+//     int lenA = getListLength(headA);
+//     int lenB = getListLength(headB);
+
+//     while (lenA > lenB) {
+//       lenA--;
+//       headA = headA.next;
+//     }
+
+//     while (lenB > lenA) {
+//       lenB--;
+//       headB = headB.next;
+//     }
+
+//     // Now both heads are at same distance from intersection
+//     // Start moving them both until they meet
+//     while(headA != headB) {
+//       headA = headA.next;
+//       headB = headB.next;
+//     }
+
+//     return headA;
+//   }
 
 
 //THIS WONT WORK
