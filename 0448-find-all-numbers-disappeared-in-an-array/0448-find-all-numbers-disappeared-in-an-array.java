@@ -28,3 +28,50 @@ class Solution {
 
 // If nums[i] = 4, that means number 4 exists in the array.
 // To mark it as visited, we need to make nums[3] (i.e., index 4-1) negative.
+
+
+///BF
+// import java.util.*;
+
+// class Solution {
+//     public List<Integer> findDisappearedNumbers(int[] nums) {
+//         List<Integer> ans = new ArrayList<>();
+//         int n = nums.length;
+
+//         for (int i = 1; i <= n; i++) {
+//             boolean found = false;
+//             for (int num : nums) {
+//                 if (num == i) {
+//                     found = true;
+//                     break;
+//                 }
+//             }
+//             if (!found) {
+//                 ans.add(i);
+//             }
+//         }
+
+//         return ans;
+//     }
+// }
+
+
+//Optimal 
+// import java.util.*;
+
+// class Solution {
+//     public List<Integer> findDisappearedNumbers(int[] nums) {
+//         Arrays.sort(nums); // Sort the array
+//         List<Integer> ans = new ArrayList<>();
+//         int n = nums.length;
+//         for (int i = 1; i <= n; i++) {
+//             if (Arrays.binarySearch(nums, i) < 0) {
+//                 ans.add(i); // If not found
+//             }
+//         }
+//         return ans;
+//     }
+// }
+/////////////////////////////////////////////
+
+
