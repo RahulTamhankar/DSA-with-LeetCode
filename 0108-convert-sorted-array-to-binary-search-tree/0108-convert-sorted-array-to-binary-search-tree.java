@@ -27,7 +27,7 @@ class Solution {
         }
 
         int middle=(low+high)/2;
-        var root=new TreeNode(nums[middle]);
+        TreeNode root=new TreeNode(nums[middle]);
         root.left=MakeBST(nums,low,middle-1);
         root.right=MakeBST(nums,middle+1,high);
 
