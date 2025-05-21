@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0680-valid-palindrome-ii) |
