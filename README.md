@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0205-isomorphic-strings) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -405,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
