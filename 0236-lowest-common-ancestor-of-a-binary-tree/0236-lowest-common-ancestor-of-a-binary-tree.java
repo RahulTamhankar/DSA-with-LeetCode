@@ -16,8 +16,11 @@ class Solution {
         TreeNode leftN=lowestCommonAncestor(root.left,p,q);
         TreeNode rightN=lowestCommonAncestor(root.right,p,q);
 
+        // If both sides return non-null, root is LCA
         if(leftN!=null && rightN!=null) return root;
 
+
+        // Otherwise return non-null side
         if(leftN!=null){
             return leftN;
         }else{
