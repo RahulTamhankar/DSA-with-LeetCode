@@ -21,7 +21,7 @@
 // }
 
 class Solution{
-     public List<List<Integer>> combinationSum3(int k, int n) {
+    public List<List<Integer>> combinationSum3(int k, int n) {
     List<List<Integer>> ans = new ArrayList<>();
     combination(ans, new ArrayList<Integer>(), k, 1, n);
     return ans;
@@ -40,3 +40,16 @@ private void combination(List<List<Integer>> ans, List<Integer> comb, int k,  in
 	}
 }
 }
+
+//why do comb.remove(comb.size() - 1);
+// Example:
+// Suppose you're at comb = [1, 2] and the next number to try is 3.
+
+// You do comb.add(3) → comb = [1, 2, 3]
+
+// You make a recursive call.
+
+// After that call, you need to go back to comb = [1, 2] to try 4, 5, etc.
+
+// So you remove the last element (3) with comb.remove(comb.size() - 1).
+
