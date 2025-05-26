@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0141-linked-list-cycle) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0217-contains-duplicate) |
