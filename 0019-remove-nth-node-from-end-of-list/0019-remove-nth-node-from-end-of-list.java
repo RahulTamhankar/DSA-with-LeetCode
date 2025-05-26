@@ -74,9 +74,9 @@ public class Solution {
             fast=fast.next;
         }
 
-        ListNode temp=slow.next;
-        slow.next=slow.next.next;
-        temp=null;
+        ListNode delNode=slow.next;// step to delete better to do in interview to save memory
+        slow.next=slow.next.next; //step to point slow to next of deleted
+        delNode=null; // step to delete better to do in interview to save memory
 
         return head;
 
