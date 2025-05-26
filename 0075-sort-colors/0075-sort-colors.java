@@ -12,7 +12,7 @@ class Solution {
                 mid++;
             }else if(nums[mid]==1){
                 mid++;
-            }else{ 
+            }else{ //nums[mid]==2
                 swap(nums,mid,end);
                 end--;
             }
