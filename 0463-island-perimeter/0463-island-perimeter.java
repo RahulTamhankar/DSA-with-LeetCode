@@ -6,7 +6,7 @@ class Solution {
             for(int j=0;j<grid[i].length;j++){
                 if(grid[i][j]==1){
                     dfs(grid,i,j);
-                    break;
+                    break;   //if there are more than 1 island then remove this break
                 }
             }
         }
@@ -20,7 +20,7 @@ class Solution {
         }
         if(grid[i][j]==-1) return;
 
-        grid[i][j]=-1;
+        grid[i][j]=-1;  // if we get 0 we do count++, if its 1 we do -1 and if its -1 we do simple return
 
         dfs(grid,i+1,j);
         dfs(grid,i-1,j);
@@ -28,3 +28,4 @@ class Solution {
         dfs(grid,i,j-1);
     }
 }
+// }                                                                                                                                   Just using break exits the inner loop, but the outer loop still runs. If you don’t prevent that, you’ll keep looping through the rest of the grid even though you're done. or just return count instead of break to come out of both loops
