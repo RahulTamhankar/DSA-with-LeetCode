@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0191-number-of-1-bits) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0257-binary-tree-paths) |
