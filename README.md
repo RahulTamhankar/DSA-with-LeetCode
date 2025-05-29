@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0100-same-tree) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0257-binary-tree-paths) |
 ## Simulation
