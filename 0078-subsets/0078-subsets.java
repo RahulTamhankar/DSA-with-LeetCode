@@ -47,6 +47,13 @@ class Solution {
         return ans;
     }
 }
+//  Auxiliary (Extra) Space Complexity:
+// If you ignore the output list ans, then yes — the extra space used is O(n) at most (for the temporary list created in each iteration). better than recursive in space
+
+// ▶️ Total Space Complexity (including output):
+// O(n × 2ⁿ) — because you're storing all subsets in memory.
+
+
 
 
 // {1,2,3}
