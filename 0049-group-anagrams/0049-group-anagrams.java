@@ -32,8 +32,11 @@ class Solution {
 
     // Iterate over each character
     for (char c : str.toCharArray()) {
-      freq[c - 'a']++;
+      freq[c - 'a']++;              // for the word "eat", freq = [1, 0, 0, 0, 1, 0, 0, ..., 1, ..., 0];  // length 26
+
     }
+    //and frequencyString will look like a1b0c0d0e1f0g0h0i0j0k0l0m0n0o0p0q0r0s0t1u0v0w0x0y0z0
+
 
     // Start creating the frequency string
     StringBuilder frequencyString = new StringBuilder("");
