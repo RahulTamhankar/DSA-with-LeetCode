@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0463-island-perimeter) |
