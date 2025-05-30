@@ -30,7 +30,7 @@ public class Solution {
         for (int row = 0; row < m; row++) {
             if (row > 0 && obstacleGrid[row - 1][0] == 1) {
                 t[row][0] = 0;
-                obstacleGrid[row][0] = 1; // Block further cells in the column
+                obstacleGrid[row][0] = 1; // Block further cells in the column of grid
             } else if (obstacleGrid[row][0] == 1) {
                 t[row][0] = 0;
             } else {
