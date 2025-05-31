@@ -13,6 +13,7 @@
  *     }
  * }
  */
+//Optimized approach by using map to find index of root in inorder array
 class Solution {
     Map<Integer,Integer> inorderIndexMap=new HashMap<>();
 
@@ -100,3 +101,34 @@ class Solution {
 // ...and so on
 
 // This ensures you're always building the tree in the correct preorder sequence.
+
+//-----------------------------------------------------------------
+//Basic Approach
+// class Solution {
+
+//     public TreeNode buildTree(int[] preorder, int[] inorder) {
+//         return solve(preorder, inorder, 0, inorder.length - 1, new int[]{0});
+//     }
+
+//     private TreeNode solve(int[] preorder, int[] inorder, int start, int end, int[] idx) {
+//         if (start > end) {
+//             return null;
+//         }
+
+//         int rootVal = preorder[idx[0]];
+//         int i = start;
+//         while (i <= end) {
+//             if (inorder[i] == rootVal) {
+//                 break;
+//             }
+//             i++;
+//         }
+
+//         idx[0]++; // Move to the next root in preorder
+//         TreeNode root = new TreeNode(rootVal);
+//         root.left = solve(preorder, inorder, start, i - 1, idx);
+//         root.right = solve(preorder, inorder, i + 1, end, idx);
+
+//         return root;
+//     }
+// }
