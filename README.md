@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
