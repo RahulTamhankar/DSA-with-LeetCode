@@ -1,19 +1,28 @@
 class Solution {
-    public void rotate(int[][] matrix) {
-        int n=matrix.length;
+public void rotate(int[][] matrix) {
 
-        for(int i=0;i<(n+1)/2;i++){
-            for(int j=0;j<n/2;j++){
-                int temp=matrix[n-1-j][i];
+    int n = matrix.length;
 
-                matrix[n-1-j][i]=matrix[n-1-i][n-j-1];
+    for (int i = 0; i < (n + 1) / 2; i ++) {
 
-                matrix[n-1-i][n-j-1]=matrix[j][n-1-i];
+      for (int j = 0; j < n / 2; j++) {
+        // Start 4 way swaps
+        // temp = bottom left
+        int temp = matrix[n - 1 - j][i];
 
-                matrix[j][n-1-i]=matrix[i][j];
+        // bottom left = bottom right
+        matrix[n - 1 - j][i] = matrix[n - 1 - i][n - j - 1];
 
-                matrix[i][j]=temp;
-            }
-        }
+        // bottom right = top right
+        matrix[n - 1 - i][n - j - 1] = matrix[j][n - 1 -i];
+
+        // top right = top left
+        matrix[j][n - 1 - i] = matrix[i][j];
+
+        // top left = temp
+        matrix[i][j] = temp;
+      }
     }
+  }
+
 }
