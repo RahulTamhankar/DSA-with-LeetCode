@@ -13,12 +13,13 @@
  *     }
  * }
  */
+ //TC,SC=O(n)
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         Queue<TreeNode> queue=new LinkedList<TreeNode>();
         List<List<Integer>> list=new LinkedList<List<Integer>>();
         if(root==null) return list;
-        queue.offer(root);
+        queue.offer(root); //for pushing inital value 3, rest happens inside while.. Queue=[9,20],Queue=[15,7]
         while(!queue.isEmpty()){
             int levelNum=queue.size();
             List<Integer> subList=new LinkedList<Integer>();
