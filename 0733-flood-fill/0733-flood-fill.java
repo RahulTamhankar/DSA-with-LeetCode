@@ -17,7 +17,9 @@ class Solution {
     }
 
     private static void bfs(int sr,int sc,int orgColor,int color,int r,int c,int[][] image){
-        Queue<int[]> q=new LinkedList<>();
+        Queue<int[]> q=new LinkedList<>(); //Because BFS explores level by level — starting pixel, then all its neighbors, then their neighbors, and so on. A queue (FIFO structure) ensures we process the pixels in the correct order.
+
+
         q.add(new int[]{sr,sc});
         image[sr][sc]=color;
 
