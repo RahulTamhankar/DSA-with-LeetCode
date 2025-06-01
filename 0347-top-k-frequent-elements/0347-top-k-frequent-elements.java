@@ -54,3 +54,59 @@ class Solution {
         return result;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// \U0001f914 Why not just for (int num : frequencyMap)?
+// Because frequencyMap is a Map<Integer, Integer>, not something you can iterate over directly in a for-each loop. Java doesn’t know what part of the map you want to loop over — the keys, the values, or the entries (key-value pairs).
+
+// So instead, Java gives you three options:
+
+// ✅ 1. Loop over keys:
+// java
+// Copy
+// Edit
+// for (Integer key : frequencyMap.keySet()) {
+//     int value = frequencyMap.get(key);
+// }
+// keySet() gives you all the keys.
+
+// You can then get the value using frequencyMap.get(key).
+
+// ✅ 2. Loop over values:
+// java
+// Copy
+// Edit
+// for (Integer value : frequencyMap.values()) {
+//     // just values, not keys
+// }
+// values() gives you just the values (not helpful if you also need keys).
+
+// ✅ 3. Loop over entries (✅ best for top K frequent):
+// java
+// Copy
+// Edit
+// for (Map.Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
+//     Integer key = entry.getKey();
+//     Integer value = entry.getValue();
+// }
+// entrySet() gives you both key and value at once.
+
+// This is required when you need both — which is exactly what you're doing in the top K frequent elements problem.
+
