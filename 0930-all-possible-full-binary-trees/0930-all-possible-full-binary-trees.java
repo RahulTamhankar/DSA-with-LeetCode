@@ -46,14 +46,14 @@ class Solution {
     Map<Integer, List<TreeNode>> dp = new HashMap<>();
 
     public List<TreeNode> allPossibleFBT(int n) {
-        if (n % 2 == 0) return new ArrayList<>();  // Full Binary Trees must have odd number of nodes
+        // if (n % 2 == 0) return new ArrayList<>();  // Full Binary Trees must have odd number of nodes
         if (n == 1) return Arrays.asList(new TreeNode(0)); // ok even if we dont give 0, as in the top constructor new node is initialized with 0
 
         if (dp.containsKey(n)) return dp.get(n);
 
         List<TreeNode> ans = new ArrayList<>();
 
-        for (int i = 1; i < n; i ++) { 
+        for (int i = 1; i < n; i+=2) { 
             List<TreeNode> left = allPossibleFBT(i);  //for n=5, 1 is root, 1 is for left hence i and 3 is on right hence 5-1-1;
             List<TreeNode> right = allPossibleFBT(n - i - 1);
 
