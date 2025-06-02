@@ -50,7 +50,7 @@ class Solution {
 }
 
 
-// Great question!
+// Question 1
 
 // ✅ Use of allTrees.add(null);
 // This line:
@@ -121,3 +121,47 @@ class Solution {
 
 // "This side has nothing, but that's still a valid configuration."
 
+//Question 2
+// When does start > end happen?
+// This happens when you're trying to build a subtree with no elements — i.e., an empty tree.
+
+// It occurs in recursive calls like:
+
+// generate(1, 0) — when trying to build the left subtree of node 1
+
+// generate(4, 3) — when trying to build the right subtree of node 3
+
+// Both cases are valid in BST construction — they represent "no child" on that side of the node.
+
+// \U0001f4cc Example: n = 3
+// You're trying i = 1 as root.
+
+// Then:
+
+// Left subtree = generate(1, 0) → start > end → no left child → return [null]
+
+// Right subtree = generate(2, 3) → recursive call continues to build right child.
+
+// This null allows the combination logic to still loop and pair that empty subtree with a valid right subtree:
+
+// java
+// Copy
+// Edit
+// for (TreeNode left : leftTrees) {
+//     for (TreeNode right : rightTrees) {
+//         TreeNode root = new TreeNode(i);
+//         root.left = left;
+//         root.right = right;
+//         allTrees.add(root);
+//     }
+// }
+// If we didn’t return a [null], we’d skip valid combinations, like a root with only a right child.
+
+// ✅ So in summary:
+// start > end = base case for an empty subtree.
+
+// It's crucial for generating trees with missing left or right children (which is part of what makes BSTs unique structurally).
+
+// The returned [null] allows us to still combine it with the other side of the tree.
+
+// Let me know if you want to walk through the full n = 3 tree builds!
