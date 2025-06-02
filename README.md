@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0394-decode-string) |
+| [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
+| [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
