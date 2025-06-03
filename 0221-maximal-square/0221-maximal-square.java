@@ -1,7 +1,8 @@
 class Solution {
  
     public int maximalSquare(char[][] matrix) {
-                if (matrix == null || matrix.length == 0 || matrix[0].length == 0) return 0;
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) return 0; //even if not there fine
+
 
         int m = matrix.length;
         int n = matrix[0].length;
@@ -24,6 +25,6 @@ class Solution {
             }
         }
 
-        return maxSide * maxSide;  
+        return maxSide * maxSide;  // Return area
     }
 }
