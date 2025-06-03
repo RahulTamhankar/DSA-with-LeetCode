@@ -12,17 +12,20 @@ class MyQueue {
     }
     
     public int pop() {
-        peek();
+        peek(); // we do peek() here just to see whether output is empty or not 
         return output.pop();
     }
     
     public int peek() {
         if(output.empty()){
             while(!input.empty()){
-                output.push(input.pop());
+                output.push(input.pop()); 
             }
         }
-        return output.peek();
+        return output.peek(); //The line return output.peek(); in the peek() method is for when the user explicitly calls .peek() — i.e., to see the front element of the queue without removing it. It is not for the benefit of pop()
+
+        //int front = q.peek();  // \U0001f448 this is where return output.peek() is used
+
     }
     
     public boolean empty() {
