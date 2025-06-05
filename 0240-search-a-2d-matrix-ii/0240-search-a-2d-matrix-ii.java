@@ -18,3 +18,15 @@ class Solution {
     return false;
     }
 }
+
+// Why col--?
+// You start at the top-right corner: mat[0][n - 1].
+
+// Now consider the value at mat[row][col]:
+
+// If mat[row][col] > target:
+// → All elements below it in the same column will be even larger (because columns are sorted).
+// → So, you can’t go down.
+// → But you might find a smaller number to the left, so:
+// ✅ Move left by doing col--.
+
