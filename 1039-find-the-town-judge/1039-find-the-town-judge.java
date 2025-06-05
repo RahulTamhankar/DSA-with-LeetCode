@@ -25,21 +25,26 @@ class Solution {
 // That means all other N - 1 people trust the judge.
 
 //OR
-// public class Solution {
+// class Solution {
 //     public int findJudge(int n, int[][] trust) {
 //         int[] trustScore = new int[n + 1];
 
 //         for (int[] t : trust) {
-//             trustScore[t[0]]--; // person trusts someone
-//             trustScore[t[1]]++; // person is trusted by someone
+//             trustScore[t[0]]--; // loses score for trusting someone
+//             trustScore[t[1]]++; // gains score for being trusted
 //         }
 
 //         for (int i = 1; i <= n; i++) {
-//             if (trustScore[i] == n - 1) {
-//                 return i; // found the judge
-//             }
+//             if (trustScore[i] == n - 1)
+//                 return i; // judge found
 //         }
 
-//         return -1; // no judge found
+//         return -1;
 //     }
 // }
+
+// n = 3, trust = [[1,3],[2,3]]
+// → 1 → 3
+// → 2 → 3
+// → 3 is trusted by 2, and trusts no one
+// ✅ Output: 3
