@@ -18,6 +18,15 @@ public class Solution {
         }
     }
 }
+// ✅ In-place Merge using Two Pointers (Backward)
+// | i | nums1\[i] | j  | nums2\[j] | Comparison          | nums1[k] = ... | k | nums1 after step |
+// | - | --------- | -- | --------- | ------------------- | --------------- | - | ---------------- |
+// | 2 | 3         | 2  | 6         | 3 < 6 → use 6       | nums1[5] = 6   | 5 | [1,2,3,0,0,6]   |
+// | 2 | 3         | 1  | 5         | 3 < 5 → use 5       | nums1[4] = 5   | 4 | [1,2,3,0,5,6]   |
+// | 2 | 3         | 0  | 2         | 3 > 2 → use 3       | nums1[3] = 3   | 3 | [1,2,3,3,5,6]   |
+// | 1 | 2         | 0  | 2         | 2 == 2 → use 2      | nums1[2] = 2   | 2 | [1,2,2,3,5,6]   |
+// | 0 | 1         | -1 | -         | (j < 0, loop exits) |                 |   |                  |
+
 // Example:
 // java
 // Copy
