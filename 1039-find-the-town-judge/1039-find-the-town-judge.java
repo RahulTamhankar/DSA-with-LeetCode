@@ -1,18 +1,23 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
-        int[] in=new int[n+1];
-        int[] out=new int[n+1];
-        for(int[] a:trust){
-            out[a[0]]++;
-            in[a[1]]++;
+        int[] in = new int[n + 1];  // how many trust i
+        int[] out = new int[n + 1]; // how many i trusts
+
+        for (int[] t : trust) {
+            int a = t[0], b = t[1];
+            out[a]++;  // a trusts someone → can't be judge
+            in[b]++;   // b is trusted by someone
         }
-        for(int i=1;i<=n;i++){
-            if(in[i]==n-1 && out[i]==0)
-                return i;
+
+        for (int i = 1; i <= n; i++) {
+            if (in[i] == n - 1 && out[i] == 0)
+                return i; // found judge
         }
-        return -1;
+
+        return -1; // no judge
     }
 }
+
 
 // Why N - 1?
 // In a town of N people:
