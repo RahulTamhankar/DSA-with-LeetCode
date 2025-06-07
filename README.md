@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0338-counting-bits) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0441-arranging-coins) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0463-island-perimeter) |
