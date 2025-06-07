@@ -81,7 +81,8 @@ class Solution {
 
     //Function which will return new new trie Node 
     // all the values will be initialized to null bydefault
-    // When you create a new object like new TrieNode():All object references (like TrieNode[] children) are initialized to null by default.All primitive types are initialized to their default values:int → 0 boolean → false String (an object) → null (unless explicitly assigned)
+    // When you create a new object like new TrieNode():All object references (like TrieNode[] children) are initialized to null by default.
+    //All primitive types are initialized to their default values:int → 0 boolean → false String (an object) → null (unless explicitly assigned)
     private TrieNode getNode() {
         return new TrieNode();
     }
