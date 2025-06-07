@@ -48,3 +48,5 @@ class Solution {
     }
 }
 
+// starting from end, as we move left take iterator which moves right
+
