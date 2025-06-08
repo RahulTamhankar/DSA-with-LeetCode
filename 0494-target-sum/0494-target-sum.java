@@ -1,3 +1,5 @@
+
+//Issue
 // class Solution {
 //     public int findTargetSumWays(int[] nums, int target) {
 //         int sum=0;
@@ -28,6 +30,14 @@
 //         return dp[n][subset];
 //     }
 // }
+// For this testcase:
+// nums = [1]
+// target = 2
+// Total sum = 1
+// Subset sum = (sum + target)/2 = (1+2)/2 = 1.5 → not an integer → invalid
+// But your code mistakenly skips the target > sum logic because it's using:
+// if (((sum - target) % 2 == 1) || (target > sum))
+// This logic is incorrect for negative targets or non-integer subset values.
 
 class Solution { 
     public int findTargetSumWays(int[] nums, int target) {
@@ -37,7 +47,7 @@ class Solution {
         }
 
         // If target is out of range or (sum+target) is not even, no solution
-        if (sum < Math.abs(target) || (sum + target) % 2 != 0) {
+        if (sum < Math.abs(target) || (sum + target) % 2 == 1) {
             return 0;
         }
 
