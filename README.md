@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0063-unique-paths-ii) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0861-flipping-an-image) |
