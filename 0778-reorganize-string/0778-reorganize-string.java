@@ -50,49 +50,54 @@
 
 
 //Approach-2 (Using odd/even placement)
+//TC- O(N)
 class Solution {
     public String reorganizeString(String s) {
-        //dont know where the life will take me !!
-        int len = s.length();
-        int[] charFreq = new int[26];
-        char[] ans = new char[len];
-
-
-        char maxocc = '#';
-        int maxlen = 0 ;
-
-        for(char el : s.toCharArray())
-        {
-            charFreq[el-'a']++;
-
-            if(charFreq[el-'a'] > (len+1)/2) return "";
-
-            if(charFreq[el-'a'] > maxlen) {
-                maxlen = charFreq[el-'a'];
-                maxocc = el;
-            }
-        }
-        int j = 0 ;
-        while(maxlen > 0)
-        {
-            ans[j] = maxocc;
-            j+=2;
-            maxlen--;
-            charFreq[maxocc - 'a']--;
+        int n = s.length();
+        int[] count = new int[26];
+        
+        // Count frequency of each character
+        for (char ch : s.toCharArray()) {
+            count[ch - 'a']++;
         }
 
-        for(char i = 'a' ; i <= 'z' ;i++)
-        {
-           
-            while(charFreq[i-'a'] > 0)
-            {
-                if(j > len-1) j = 1;
-                ans[j] = i;
-                j+=2;
-                charFreq[i-'a']--;
+        // Find character with maximum frequency
+        int maxFreq = 0;
+        char charMaxFreq = 0;
+        for (char ch : s.toCharArray()) {
+            if (count[ch - 'a'] > maxFreq) {
+                maxFreq = count[ch - 'a'];
+                charMaxFreq = ch;
             }
         }
 
-        return new String(ans);
+        // If max frequency exceeds limit, impossible to reorganize
+        if (maxFreq > (n + 1) / 2) {
+            return "";
+        }
+
+        char[] result = new char[n];
+        int i = 0;
+
+        // Place max frequency character at even indices first
+        while (count[charMaxFreq - 'a'] > 0) {
+            result[i] = charMaxFreq;
+            count[charMaxFreq - 'a']--;
+            i += 2;
+        }
+
+        // Place remaining characters
+        for (char ch = 'a'; ch <= 'z'; ch++) {
+            while (count[ch - 'a'] > 0) {
+                if (i >= n) {
+                    i = 1; // Start placing at odd indices
+                }
+                result[i] = ch;
+                count[ch - 'a']--;
+                i += 2;
+            }
+        }
+
+        return new String(result);
     }
 }
