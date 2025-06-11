@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
 | ------- |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Union Find
 |  |
 | ------- |
