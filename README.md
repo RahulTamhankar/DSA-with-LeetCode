@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1127-last-stone-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1127-last-stone-weight) |
 | [1239-largest-1-bordered-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1239-largest-1-bordered-square) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1580-shuffle-the-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 | [1239-largest-1-bordered-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1239-largest-1-bordered-square) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search Tree
