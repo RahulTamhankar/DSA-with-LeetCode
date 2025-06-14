@@ -14,13 +14,15 @@ class Solution {
 
         // DFS from Pacific Ocean borders (top and left)
         for (int i = 0; i < rows; i++) {
-            dfs(i, 0, heights, pacific);
-            dfs(i, cols - 1, heights, atlantic);
+            dfs(i, 0, heights, pacific);        // Left edge — Pacific
+            dfs(i, cols - 1, heights, atlantic); // Right edge — Atlantic
         }
+
         for (int j = 0; j < cols; j++) {
-            dfs(0, j, heights, pacific);
-            dfs(rows - 1, j, heights, atlantic);
+            dfs(0, j, heights, pacific);        // Top edge — Pacific
+            dfs(rows - 1, j, heights, atlantic); // Bottom edge — Atlantic
         }
+
 
         // Collect cells reachable by both oceans
         for (int i = 0; i < rows; i++) {
