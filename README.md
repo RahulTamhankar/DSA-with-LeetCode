@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
