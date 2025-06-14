@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Bit Manipulation
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
