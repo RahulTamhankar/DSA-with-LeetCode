@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Divide and Conquer
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Counting
 |  |
 | ------- |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0778-reorganize-string) |
+| [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Backtracking
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1127-last-stone-weight) |
+| [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Data Stream
 |  |
 | ------- |
