@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 | [1239-largest-1-bordered-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1239-largest-1-bordered-square) |
