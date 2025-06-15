@@ -1,3 +1,8 @@
+//Approach (Recursion + Memoization)
+//T.C : O(n * S * S * m), where S = total states i.e. 3 * 2^m-1
+//S.C : O((n * S) + (S * m)) where n * S is because of memoization array t, and S * m is for storing columnStates
+import java.util.*;
+
 public class Solution {
     private List<String> columnStates = new ArrayList<>();
     private int[][] t;
@@ -46,7 +51,7 @@ public class Solution {
     }
 
     public int colorTheGrid(int m, int n) {
-        // columnStates.clear();
+        columnStates.clear();
         generateColumnStates("", m, '#'); // '#' denotes no previous color
 
         int numColumnPatterns = columnStates.size();
