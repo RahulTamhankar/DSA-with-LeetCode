@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 | [1239-largest-1-bordered-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
