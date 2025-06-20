@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1127-last-stone-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1127-last-stone-weight) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0861-flipping-an-image) |
+| [1036-rotting-oranges](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1239-largest-1-bordered-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
