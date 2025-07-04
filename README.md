@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0377-combination-sum-iv) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0348-design-tic-tac-toe](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0348-design-tic-tac-toe](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0463-island-perimeter) |
@@ -748,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0348-design-tic-tac-toe](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0415-add-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0861-flipping-an-image) |
