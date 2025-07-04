@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0404-sum-of-left-leaves](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0322-coin-change) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0404-sum-of-left-leaves](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1039-find-the-town-judge](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1039-find-the-town-judge) |
 ## Prefix Sum
 |  |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0200-number-of-islands) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
