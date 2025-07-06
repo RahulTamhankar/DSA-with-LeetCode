@@ -104,13 +104,12 @@ class Solution {
         for (int i = m - 1; i >= 0; --i) {
             for (int j = n - 1; j >= 0; --j) {
                 if (i == m - 1 && j == n - 1) {
-                    // At princess cell
-                    t[i][j] = dungeon[i][j] >= 0 ? 1 : -dungeon[i][j] + 1;
+                    t[i][j] = (dungeon[m - 1][n - 1] >= 0 ? 1 : Math.abs(dungeon[m - 1][n - 1]) + 1);
                 } else {
                     int down = (i + 1 >= m) ? Integer.MAX_VALUE : t[i + 1][j];
                     int right = (j + 1 >= n) ? Integer.MAX_VALUE : t[i][j + 1];
-                    int need = Math.min(down, right) - dungeon[i][j];
-                    t[i][j] = (need <= 0) ? 1 : need;
+                    int res = Math.min(down, right) - dungeon[i][j];
+                    t[i][j] = (res > 0 ? res : 1);
                 }
             }
         }
