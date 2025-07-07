@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0290-word-pattern) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0367-valid-perfect-square) |
