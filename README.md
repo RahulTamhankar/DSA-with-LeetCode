@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0169-majority-element) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0198-house-robber) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0205-isomorphic-strings) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0140-word-break-ii) |
 | [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0146-lru-cache) |
@@ -648,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0472-concatenated-words) |
@@ -761,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0140-word-break-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0257-binary-tree-paths) |
