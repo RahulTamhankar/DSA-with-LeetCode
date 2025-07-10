@@ -9,6 +9,8 @@ class Solution {
 
         while (left <= right) {
             long midProduct = left + (right - left) / 2;
+
+            //check if this is kth smallest or not
             long count = countLessEqual(nums1, nums2, midProduct);
 
             if (count >= k) {
@@ -28,9 +30,11 @@ class Solution {
 
         for (int a : nums1) {
             if (a >= 0) {
-                int l = 0, r = n - 1, pos = -1;
+                int l = 0, r = n - 1, 
+                pos = -1;//invalid index on left hand side
                 while (l <= r) {
                     int m = l + (r - l) / 2;
+
                     long product = 1L * a * nums2[m];
                     if (product <= midProduct) {
                         pos = m;
@@ -39,9 +43,11 @@ class Solution {
                         r = m - 1;
                     }
                 }
-                count += (pos + 1);
-            } else {
-                int l = 0, r = n - 1, pos = n;
+                count += (pos + 1);//covered by nums1[i]
+            } else { //product will be negative and right hand side will contain smaller products and left hand side larger
+
+                int l = 0, r = n - 1, 
+                pos = n; //invalid index on the right hand side
                 while (l <= r) {
                     int m = l + (r - l) / 2;
                     long product = 1L * a * nums2[m];
