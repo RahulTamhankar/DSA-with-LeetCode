@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-largest-1-bordered-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [3618-find-the-original-typed-string-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3618-find-the-original-typed-string-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0724-find-pivot-index) |
+| [3618-find-the-original-typed-string-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting Sort
 |  |
