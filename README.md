@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 | [1239-largest-1-bordered-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1239-largest-1-bordered-square) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-analyze-user-website-visit-pattern](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Counting
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Binary Search Tree
 |  |
