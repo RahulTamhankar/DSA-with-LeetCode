@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-basic-calculator-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0785-basic-calculator-iii) |
 | [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0861-flipping-an-image) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
