@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0472-concatenated-words) |
+| [0588-design-in-memory-file-system](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0680-valid-palindrome-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0778-reorganize-string) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0588-design-in-memory-file-system](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0389-find-the-difference) |
+| [0588-design-in-memory-file-system](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0588-design-in-memory-file-system](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 ## Trie
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0472-concatenated-words) |
+| [0588-design-in-memory-file-system](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0588-design-in-memory-file-system) |
 ## Binary Search
 |  |
 | ------- |
