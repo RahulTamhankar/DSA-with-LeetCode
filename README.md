@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0912-random-pick-with-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0941-sort-array-by-parity](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0785-basic-calculator-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0785-basic-calculator-iii) |
+| [0912-random-pick-with-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0912-random-pick-with-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0724-find-pivot-index) |
+| [0912-random-pick-with-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting Sort
@@ -949,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0912-random-pick-with-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0912-random-pick-with-weight) |
 ## Geometry
 |  |
 | ------- |
