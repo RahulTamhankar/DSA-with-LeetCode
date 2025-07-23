@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Divide and Conquer
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Backtracking
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Union Find
 |  |
 | ------- |
