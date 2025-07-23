@@ -33,13 +33,18 @@ class Solution {
             return 0; // Return 0 if the array is already sorted
         }
 
-        // Find the correct positions for minVal and maxVal
+        // Find the correct positions for minVal and maxVal subtract and get ans
         int i = 0;
-        while (i < n && nums[i] <= minVal) {
+
+        //[1 2 3 6] and we want to find the position of 5 here, 1 2 3 are <5 but 6>5 hence 5 should be placed at [1 2 3 5 6]
+        while (i < n && nums[i] <= minVal) {  // so in the end i will have the position of min element
             i++;
         }
 
-        int j = n - 1;
+        int j = n - 1;  
+        // exampel i want to fi d the position of 4 in [1 2 3 5 6] and i start from right side
+        // 4 is < 5,6 but 4!<3 so 4 must be at [1 2 3 4 5 6]
+        
         while (j >= 0 && nums[j] >= maxVal) {
             j--;
         }
