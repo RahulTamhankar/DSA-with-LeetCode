@@ -36,3 +36,50 @@ class Solution {
         return count;
     }
 }
+
+
+// to further optimse directly start from the current day element present in pq
+//eg- events [{5,10},{15,20}]
+//pq={}
+//day=6,day=7 then start directly from 5
+
+// class Solution {
+//     public int maxEvents(int[][] events) {
+//         int n = events.length;
+
+//         // Sort events based on start day
+//         Arrays.sort(events, (a, b) -> Integer.compare(a[0], b[0]));
+
+//         PriorityQueue<Integer> pq = new PriorityQueue<>(); // min-heap for end days
+//         int day = events[0][0];
+//         int i = 0;
+//         int count = 0; // result number of events attended
+
+//         while (!pq.isEmpty() || i < n) {
+
+//             if (pq.isEmpty()) {
+//                 day = events[i][0];
+//             }
+
+//             // Add all events that start on `day` to the min-heap
+//             while (i < n && events[i][0] == day) {
+//                 pq.add(events[i][1]);
+//                 i++;
+//             }
+
+//             if (!pq.isEmpty()) {
+//                 pq.poll(); // Attend an event on this day
+//                 count++;   // Increment count
+//             }
+
+//             day++;
+
+//             // Remove events that have already expired
+//             while (!pq.isEmpty() && pq.peek() < day) {
+//                 pq.poll();
+//             }
+//         }
+
+//         return count;
+//     }
+// }
