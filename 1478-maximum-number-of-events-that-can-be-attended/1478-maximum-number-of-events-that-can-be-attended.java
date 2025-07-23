@@ -28,7 +28,7 @@ class Solution {
             day++;
 
             // Skip events whose end day is less than the current day
-            while(!pq.isEmpty() && pq.peek() < day) {
+            while(!pq.isEmpty() && pq.peek() < day) {// till pq is not empty and top ele of pq, ie uska end day is < the current day, then remove them
                 pq.poll();
             }
         }
