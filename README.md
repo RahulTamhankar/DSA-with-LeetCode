@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2479-meeting-rooms-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Binary Search Tree
 |  |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0778-reorganize-string) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -906,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-random-pick-with-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting Sort
@@ -954,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Union Find
 |  |
