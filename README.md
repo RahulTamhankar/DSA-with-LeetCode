@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2206-detonate-the-maximum-bombs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2206-detonate-the-maximum-bombs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [2206-detonate-the-maximum-bombs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2206-detonate-the-maximum-bombs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -904,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1039-find-the-town-judge](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2206-detonate-the-maximum-bombs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1010,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2206-detonate-the-maximum-bombs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Merge Sort
 |  |
 | ------- |
