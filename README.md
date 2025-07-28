@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0861-flipping-an-image) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
