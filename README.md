@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Counting
 |  |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -980,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Union Find
 |  |
