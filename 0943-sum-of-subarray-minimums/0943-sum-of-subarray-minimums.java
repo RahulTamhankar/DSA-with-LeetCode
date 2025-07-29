@@ -68,13 +68,13 @@ public class Solution {
         int M = 1000000007;
 
         for (int i = 0; i < n; i++) {
-            long d1 = i - NSL[i];
-            long d2 = NSR[i] - i;
+            long ls = i - NSL[i]; //left me kitne elements honge
+            long rs = NSR[i] - i; //right me.......
             
-            long totalWaysForIMin = d1 * d2;
+            long totalWaysForIMin = ls * rs; //total subarrays honge jinka minimum arr[i]
             long sumIInTotalWays = arr[i] * totalWaysForIMin;
 
-            sum = (sum + sumIInTotalWays) % M;
+            sum = (sum + sumIInTotalWays) % M; //%M bcoz given in Question
         }
 
         return (int) sum;
