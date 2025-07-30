@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0854-making-a-large-island](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0854-making-a-large-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0833-bus-routes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0854-making-a-large-island) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1036-rotting-oranges) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -682,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0833-bus-routes) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0965-unique-email-addresses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1023-time-based-key-value-store) |
