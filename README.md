@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2681-put-marbles-in-bags](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2479-meeting-rooms-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sorting
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Union Find
