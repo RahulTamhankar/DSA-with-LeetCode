@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1044-find-common-characters) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-random-pick-with-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -1008,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
