@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1300-critical-connections-in-a-network](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [2206-detonate-the-maximum-bombs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1039-find-the-town-judge](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1300-critical-connections-in-a-network](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [2206-detonate-the-maximum-bombs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Prefix Sum
 |  |
@@ -1074,4 +1076,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
