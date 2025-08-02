@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0833-bus-routes) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0472-concatenated-words) |
 | [0588-design-in-memory-file-system](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0680-valid-palindrome-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0753-open-the-lock](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0782-jewels-and-stones) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0733-flood-fill) |
+| [0753-open-the-lock](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0753-open-the-lock) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0833-bus-routes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0854-making-a-large-island) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0697-degree-of-an-array) |
+| [0753-open-the-lock](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0782-jewels-and-stones) |
