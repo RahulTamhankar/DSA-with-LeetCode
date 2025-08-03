@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Solution {
     public int shortestDistance(int[][] grid) {
         int rows = grid.length;
