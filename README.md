@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0268-missing-number) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Graph
 |  |
 | ------- |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -1042,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -1108,4 +1112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
