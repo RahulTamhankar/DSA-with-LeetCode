@@ -1,38 +1,33 @@
-class Solution {
+import java.util.*;
+
+public class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        int ans[] = new int[nums.length - k + 1];
-        Deque<Integer> q = new LinkedList<>();
+        int n = nums.length;
+        if (n == 0) return new int[0];
         
-        int i = 0;
-        int j = 0;
-        
-        while(j < nums.length){
-            // calculation
-            if(q.size() == 0){
-                q.add(nums[j]);
+        Deque<Integer> deq = new LinkedList<>();
+        List<Integer> result = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+            // Remove indices that are out of the current window
+            if (!deq.isEmpty() && deq.peekFirst() <= i - k) {
+                deq.pollFirst();
             }
-            else{
-                while(q.size() > 0 && q.peekLast() < nums[j]){
-                    q.removeLast();
-                }
-                q.add(nums[j]);
+
+            // Maintain deque in decreasing order
+            while (!deq.isEmpty() && nums[i] > nums[deq.peekLast()]) {
+                deq.pollLast();
             }
-            // now move j pointer
-            if(j - i + 1 < k) j++;
-            // if we hit the window size
-            else if(j - i + 1 == k){
-                // answer -> calculation;
-                ans[i] = q.peek();
-                // slide the window
-                // calculation
-                if(nums[i] == q.peek()){
-                    q.removeFirst();
-                }
-                // now slide the pointer
-                i++;
-                j++;
+
+            deq.offerLast(i);
+
+            // Start adding results when we have the first full window
+            if (i >= k - 1) {
+                result.add(nums[deq.peekFirst()]);
             }
         }
-        return ans;
+
+        // Convert List<Integer> to int[]
+        return result.stream().mapToInt(Integer::intValue).toArray();
     }
 }
