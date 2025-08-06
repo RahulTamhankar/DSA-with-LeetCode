@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-random-pick-with-weight](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0912-random-pick-with-weight) |
+| [0940-fruit-into-baskets](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0965-unique-email-addresses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0965-unique-email-addresses) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0940-fruit-into-baskets](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RahulTamhankar/DSA-with-LeetCode/tree/master/1046-max-consecutive-ones-iii) |
