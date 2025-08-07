@@ -1,55 +1,102 @@
+// class LRUCache {
+//     private Deque<Integer> dll;
+//     private Map<Integer,Pair> cache;
+//     private int capacity;
+
+//     private class Pair{
+//         int value;
+//         Pair(int value){
+//             this.value=value;
+//         }
+//     }
+
+//     public LRUCache(int capacity) {
+//         this.capacity=capacity;
+//         this.dll = new LinkedList<>();
+//         this.cache = new HashMap<>();
+//     }
+    
+//     public int get(int key) {
+//         if(!cache.containsKey(key))  // if key is not present then return -1
+        
+//             return -1;
+        
+//         //if key is present then mark it as recently used,front pe lana padega, so uske lie map me uska address stored hai, map se address nikalo aur usko erase karke front me leke aao
+//         makeMostRecentlyUsed(key); //function to keep it in front - > How to make it mostRecently used ? erase it from DLL and then put it in front of DLL
+//         return cache.get(key).value; //pair used-->cache.get(key).value = value;
+
+//     }
+    
+//     public void put(int key, int value) {
+//         if(cache.containsKey(key)){  //if key already in map we just need to update its value, and also mark it as recentlyUsed
+//             cache.get(key).value=value; //pair used 
+//             makeMostRecentlyUsed(key);
+//         }else{
+//             dll.addFirst(key); //if key not present in map then put that in front of dll and also upadate in map.Putting it in front coz Dll does it in o(1)
+//             cache.put(key,new Pair(value)); //When a new key-value pair is added to the cache, a new Pair object is created to wrap the value.This is necessary because cache is a Map<Integer, Pair>, not a Map<Integer, Integer>.
+
+
+//             capacity--;
+//         }
+
+//         if(capacity<0){
+//             int keyToBeDeleted=dll.removeLast();
+//             cache.remove(keyToBeDeleted);
+//             capacity++;
+//         }
+//     }
+
+//     private void makeMostRecentlyUsed(int key){
+//         dll.remove(key);  //THERE IS NO concept of address in java hence just remove will be fine
+//         dll.addFirst(key);// Remove from back and put in front
+//     }
+// }
+//-------------------
+import java.util.*;
+
 class LRUCache {
     private Deque<Integer> dll;
-    private Map<Integer,Pair> cache;
+    private Map<Integer, Integer> cache;
     private int capacity;
 
-    private class Pair{
-        int value;
-        Pair(int value){
-            this.value=value;
-        }
-    }
-
     public LRUCache(int capacity) {
-        this.capacity=capacity;
+        this.capacity = capacity;
         this.dll = new LinkedList<>();
         this.cache = new HashMap<>();
     }
-    
+
     public int get(int key) {
-        if(!cache.containsKey(key))  // if key is not present then return -1
+        if (!cache.containsKey(key)) {
             return -1;
-        
-        //if key is present then mark it as recently used,front pe lana padega, so uske lie map me uska address stored hai, map se address nikalo aur usko erase karke front me leke aao
-        makeMostRecentlyUsed(key); //function to keep it in front - > How to make it mostRecently used ? erase it from DLL and then put it in front of DLL
-        return cache.get(key).value; //pair used-->cache.get(key).value = value;
+        }
 
+        makeMostRecentlyUsed(key);
+        return cache.get(key); // No more .value
     }
-    
+
     public void put(int key, int value) {
-        if(cache.containsKey(key)){  //if key already in map we just need to update its value, and also mark it as recentlyUsed
-            cache.get(key).value=value; //pair used 
+        if (cache.containsKey(key)) {
+            cache.put(key, value); // Directly put the value
             makeMostRecentlyUsed(key);
-        }else{
-            dll.addFirst(key); //if key not present in map then put that in front of dll and also upadate in map
-            cache.put(key,new Pair(value)); //When a new key-value pair is added to the cache, a new Pair object is created to wrap the value.This is necessary because cache is a Map<Integer, Pair>, not a Map<Integer, Integer>.
-
-
+        } else {
+            dll.addFirst(key); // Add to front of DLL
+            cache.put(key, value);
             capacity--;
         }
 
-        if(capacity<0){
-            int keyToBeDeleted=dll.removeLast();
+        if (capacity < 0) {
+            int keyToBeDeleted = dll.removeLast(); // Remove least recently used
             cache.remove(keyToBeDeleted);
             capacity++;
         }
     }
 
-    private void makeMostRecentlyUsed(int key){
-        dll.remove(key);  //THERE IS NO concept of address in java hence just remove will be fine
-        dll.addFirst(key);// Remove from back and put in front
+    private void makeMostRecentlyUsed(int key) {
+        dll.remove(key);    // Remove from current position
+        dll.addFirst(key);  // Move to front
     }
 }
+
 
 /**
  * Your LRUCache object will be instantiated and called as such:
@@ -62,9 +109,6 @@ class LRUCache {
 
 //  Let’s walk through this sequence with capacity = 2:
 
-// java
-// Copy
-// Edit
 // LRUCache cache = new LRUCache(2);
 // cache.put(1, 10);
 // cache.put(2, 20);
@@ -175,58 +219,7 @@ class LRUCache {
 
 /////////////////////////////////////////////
 
-// //Approach-1 (Brute Force)
-// class LRUCache {
-// public:
-    
-//     vector<pair<int, int>> cache;
-//     int n;
-    
-//     LRUCache(int capacity) {
-//         n = capacity;
-//     }
-    
-//     int get(int key) {
-        
-//         for(int i = 0; i<cache.size(); i++) {
-            
-//             if(cache[i].first == key) {
-//                 int val = cache[i].second;
-                
-//                 pair<int, int> temp = cache[i];
-//                 cache.erase(cache.begin()+i);
-//                 cache.push_back(temp);
-                
-//                 return val;
-//             }
-            
-//         }
-        
-//         return -1;
-        
-//     }
-    
-//     void put(int key, int value) {
-        
-//         for(int i = 0; i<cache.size(); i++) {
-            
-//             if(cache[i].first == key) {
-//                 cache.erase(cache.begin()+i);
-//                 cache.push_back({key, value});
-//                 return;
-//             }
-//         }
-        
-//         if(cache.size() == n) {
-//             cache.erase(cache.begin());
-//             cache.push_back({key, value});
-//         } else {
-//             cache.push_back({key, value});
-//         }
-        
-//     }
-// };  how to explain this to interviewer
-
+ 
 
 // ChatGPT said:
 // Great — you're working with a brute force implementation of an LRU (Least Recently Used) Cache. If you're explaining this to an interviewer, you want to focus on your approach, data structures, time complexities, and trade-offs. Here's a clean and confident way to walk through it:
